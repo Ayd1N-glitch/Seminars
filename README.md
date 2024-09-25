@@ -46,15 +46,21 @@
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>Classes</td>
-			<td></td>
-			<td></td>
+			<td><a href="Week 3 — Classes.md">Classes</a> (<a href="Week 3 — Classes Theory.md">Classes Theory</a>)</td>
+			<td><a href="https://classroom.github.com/a/Sxy5bG5S">https://classroom.github.com/a/Sxy5bG5S</a></td>
+			<td>October 11, 23:59</td>
 		</tr>
 		<tr>
 			<td>4</td>
-			<td>Strings</td>
-			<td></td>
-			<td></td>
+			<td>
+				<a href="https://github.com/Python-Homeworks-CUB/Extra-Tools-Seminar/blob/main/week_extra_tools.ipynb">
+					Extra:
+					<br>
+					Terminal, Git, PIP, and Jupyter
+				</a>
+			</td>
+			<td>← Complete the steps in the notebook</td>
+			<td>⸺</td>
 		</tr>
 		<tr>
 			<td>5</td>
@@ -88,18 +94,24 @@
 		</tr>
 		<tr>
 			<td>10</td>
-			<td>Exceptions</td>
+			<td>Strings</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>11</td>
-			<td>Generators & Async</td>
+			<td>Exceptions</td>
 			<td></td>
 			<td></td>
 		</tr>
 		<tr>
 			<td>12</td>
+			<td>Generators & Async</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>13</td>
 			<td>Decorators & Lambdas</td>
 			<td></td>
 			<td></td>
